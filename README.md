@@ -29,7 +29,7 @@ Both astronaut types extend from the abstract `Player` class, which contains com
 1. Clone or download the repository.
 2. Compile the Java files:
 ```bash
-   javac *.java
+javac *.java
 ```
 Run the game:
 ```bash
